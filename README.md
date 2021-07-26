@@ -1,4 +1,3 @@
-# Analysis-Police-Shootings
 # Exploratory Data Analysis on Police Shootings in the USA
 
 ### Ever since the incident that occured on 25th of May, 2020 and the Black lives matter protest that happened all over the USA, there has been continous debate about what must be done in order to curb police brutality and to make the Criminal Justice System more effective and well... just. Is it a perpetuation of systemic racism, a case of false justice or backlash because of the USA's loose and unregulated gun laws.
